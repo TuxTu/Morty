@@ -1,2 +1,2 @@
 # Morty
-An repository of artificial intelligence interface with many utils.
+An repository of artificial intelligence interface with utils.
